@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamuelCastr0
-- 👀 I’m interested in front-end!
+- 👀 I’m interested in front-end and back-end!
 - 📫 You can reach me on https://www.linkedin.com/in/samuel-castro-9539781b0/
 
 <!---
